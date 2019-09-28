@@ -1,3 +1,3 @@
 # gbEPC
 
-Revit 2018 gbXML to EPC
+BIM BEM Interoperability, Convert gbXML instances to Energy Performance Calculator (EPC)
